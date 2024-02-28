@@ -28,6 +28,10 @@ I am able to use Astro cookies when running in hybrid mode **without** `export c
 |Adapter                 | @astrojs/vercel/serverless|
 |Integrations            | @astrojs/mdx, @astrojs/sitemap|
 
+## Video
+
+https://youtu.be/zHJ5lGvDO8k
+
 ---
 
 Contents of [astro.config.mjs](astro.config.mjs)
