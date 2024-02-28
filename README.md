@@ -30,7 +30,7 @@ I am able to use Astro cookies when running in hybrid mode **without** `export c
 
 ---
 
-Contents of astro.config.mjs
+Contents of [astro.config.mjs](astro.config.mjs)
 ```js
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
@@ -47,7 +47,7 @@ export default defineConfig({
 });
 ```
 
-Contents of Footer.astro frontmatter
+Contents of [Footer.astro](src/components/Footer.astro) frontmatter
 ```js
 const today = new Date()
 
